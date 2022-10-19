@@ -6,3 +6,4 @@ To-dos:
 - Add element
 - Create a theme
 - Create icons.
+- Fix broken link to .PDF
