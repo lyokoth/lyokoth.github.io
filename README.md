@@ -1,10 +1,14 @@
 ## Portfolio ##
 ## The website is in its embryo stage atm. ##
 
-## Update 10.19.22 ##
-- Added more code
-- Created elements 
-- Added about me section to front page 
+
+<h2> Update 10/19/22 </h2>
+- Fixed image link
+- Created more elements
+- Expanded folder to include elements html file and generic html file.
+- Added About Me section.
+
+
 
 To-dos: 
 - Add color scheme
@@ -14,3 +18,9 @@ To-dos:
 - Fix broken link to resume.PDF
 
 <!-- All credit goes to HTML5UP, and @ajlkn for the designs and font>
+
+
+ ##Credits to HTML5 UP & @ajlkn for the site design##
+
+
+ ##Credits to HTML5 UP & @ajlkn for the site design##
