@@ -18,4 +18,4 @@ To-dos:
 - Fix broken link to .PDF
 
 
-<!-- Credits to HTML5 UP & @ajlkn for the site design
+ ##Credits to HTML5 UP & @ajlkn for the site design##
