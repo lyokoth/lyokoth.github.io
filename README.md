@@ -16,3 +16,6 @@ To-dos:
 - Create a theme
 - Create icons.
 - Fix broken link to .PDF
+
+
+<!-- Credits to HTML5 UP & @ajlkn for the site design
